@@ -13,7 +13,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="Projeto Dev links" src=".github/Preview.png" width="100">
+  <img alt="Projeto Dev links" src=".github/Preview.png">
 </p>
 
 <br>
